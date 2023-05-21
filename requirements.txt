@@ -6,3 +6,5 @@ scikit-learn
 plotly
 nbformat
 ipykernel
+optuna
+xgboost
