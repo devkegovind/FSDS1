@@ -9,3 +9,4 @@ ipykernel
 optuna
 xgboost
 tensorflow
+opencv-python
